@@ -9,7 +9,7 @@
 - Mentor and tutor, empowering interns in Elasticsearch for technical growth and professional development 🌟
 - Eager to expand skills, leverage experiences, and learn from industry professionals 🌱
 - Actively seeking SDE internship/co-op opportunities for Spring/Summer 2024 🌤️
-- Let's connect: [https://linkedin.com/in/yug-rajani](https://linkedin.com/in/yug-rajani)🤝
+- Let's connect: [https://www.linkedin.com/in/yug-rajani/](https://www.linkedin.com/in/yug-rajani/)🤝
 - Email: yug.rajani99@gmail.com ✉️
 - Feel free to reach out if you have suitable roles or insights to share 📬🤝
 
