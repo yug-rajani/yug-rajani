@@ -1,11 +1,11 @@
 ## Hello 👋, I'm Yug
 
-- Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sciences, Northeastern University, Boston 📚
+- Master's in Computer Science (MS CS) candidate at Khoury College of Computer Sciences, [Northeastern University](https://www.northeastern.edu), Boston 📚
 - Passionate about software development, problem-solving, and quick adaptation to new technologies 💻🔧
 - Proficient in Java, solid grasp of Python, and well-versed in Object-Oriented concepts, Data Structures, and Algorithms 🚀
-- Research Assistant at NU WiNS Lab, contributing to 5G mm wave data collection and analysis in Boston, MA 📊📡
-- Teaching Assistant, engaging with students in the Database Design course to foster understanding and growth 🎓📝
-- Former Software Engineer at Crest Data Systems Pvt. Ltd., delivering impactful software solutions ✨
+- Research Assistant at [NU WiNS Lab](https://ece.northeastern.edu/fac-ece/dkoutsonikolas/nuwins/), contributing to 5G mm wave data collection and analysis in Boston, MA 📊📡
+- Teaching Assistant, engaging with students in the Database Design (CS 3200) and Database Management Systems (CS 5200) courses to foster understanding and growth 🎓📝
+- Former Software Engineer at [Crest Data Systems Pvt. Ltd.](https://www.crestdatasys.com), delivering impactful software solutions ✨
 - Mentor and tutor, empowering interns in Elasticsearch for technical growth and professional development 🌟
 - Eager to expand skills, leverage experiences, and learn from industry professionals 🌱
 - Actively seeking SDE internship/co-op opportunities for Spring/Summer 2024 🌤️
